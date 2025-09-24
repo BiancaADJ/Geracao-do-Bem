@@ -1,4 +1,9 @@
 :root{
-  --background: black;
-  --background-color: url('../img/background.jpg');
+  /* Cores principais */
+  --branco: #;
+  --roxo1: #800080;
+  --roxo2: #f0e0ef;
+  --roxo3: #e0e0ef;
+  --azul: #000080;
+  --texto: #000;
 }
